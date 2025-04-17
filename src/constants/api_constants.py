@@ -1,7 +1,7 @@
 # APIConstants - Class which contain all the endpoints.
 # keep the URLs
 
-class APIConstants:
+class APIConstants(object):
 
     def base_url(self):
         return "https://restful-booker.herokuapp.com"
@@ -18,5 +18,5 @@ class APIConstants:
 
 # Booking -> HTTP ->  put , patch , delete
 
-def url_patch_put_delete(self,booking_id):
-    return "https://restful-booker.herokuapp.com/booking" + str(self.booking_id)
+def url_patch_put_delete(booking_id):
+    return "https://restful-booker.herokuapp.com/booking" + str(booking_id)

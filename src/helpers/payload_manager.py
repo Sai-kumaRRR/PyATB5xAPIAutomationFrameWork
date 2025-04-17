@@ -1,7 +1,7 @@
 # create booking
 # update booking
 
-#auth - Token
+# auth - Token
 
 def payload_create_booking():
     payload = {
@@ -18,6 +18,7 @@ def payload_create_booking():
 
     }
     return payload
+
 
 def payload_update_booking():
     payload = {
@@ -41,5 +42,3 @@ def payload_update_booking():
 
         }
         return payload
-
-
