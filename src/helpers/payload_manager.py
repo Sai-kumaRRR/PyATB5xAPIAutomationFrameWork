@@ -5,7 +5,6 @@
 
 def payload_create_booking():
     payload = {
-
         "firstname": "Amit",
         "lastname": "Brown",
         "totalprice": 111,
@@ -15,7 +14,6 @@ def payload_create_booking():
             "checkout": "2019-01-01"
         },
         "additionalneeds": "Breakfast"
-
     }
     return payload
 
@@ -37,8 +35,7 @@ def payload_update_booking():
 
     def payload_create_token():
         payload = {
-            "username": "admin",
-            "password": "password123"
-
+            "username":"admin",
+            "password":"password123"
         }
         return payload

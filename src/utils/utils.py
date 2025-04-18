@@ -14,22 +14,21 @@ class Utils(object):
 
     def common_headers_xml(self):
         headers = {
-            "Content-Type": "application/xml"
-
+            "Content-Type": "application/xml",
         }
         return headers
 
     def common_header_put_delete_patch_cookie(self, token):
         headers = {
             "Content-Type": "application/json",
-            "Cookie": "token=" + str(token)
+            "Cookie": "token=" + str(token),
         }
         return headers
 
     def common_header_put_patch_delete_basic_auth(self, basic_auth_value):
         headers = {
             "Content-Type": "application/json",
-            "Authorization": "Basic" + str(basic_auth_value)
+            "Authorization": "Basic" + str(basic_auth_value),
 
         }
         return headers

@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab1ef318-21a3-4281-8ef2-f38440584dcb" name="Changes" comment="17 th April - 2025">
-      <change afterPath="$PROJECT_DIR$/src/tests/crud/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/crud/test_create_booking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/end-to_end/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/conftest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/constants/api_constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/api_constants.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/helpers/api_requests_wrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/api_requests_wrapper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helpers/common_verification.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/common_verification.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/helpers/payload_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/payload_manager.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/crud/test_create_booking.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/crud/test_create_booking.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/conftest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/utils/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,19 +50,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for test_sample.test_sample.executor": "Run",
-    "Python tests.pytest for test_create_booking.TestCreateBooking.executor": "Run",
-    "Python tests.pytest for test_create_booking.TestCreateBooking.test_create_booking_positive.executor": "Run",
-    "Python tests.pytest for test_create_booking.test_create_booking_negative_tc2.executor": "Run",
-    "Python tests.pytest for test_create_booking.test_create_booking_negative_tc_1.executor": "Run",
-    "Python.api_requests_wrapper.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_sample.test_sample.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_create_booking.TestCreateBooking.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_create_booking.TestCreateBooking.test_create_booking_positive.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_create_booking.test_create_booking_negative_tc2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_create_booking.test_create_booking_negative_tc_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.api_requests_wrapper.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python tests.pytest for test_create_booking.test_create_booking_negative_tc2">
     <configuration name="api_requests_wrapper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xAPIAutomationFrameWork" />
