@@ -10,13 +10,14 @@ from src.utils.utils import Utils
 import allure
 import pytest
 
+
 @pytest.fixture(scope="session")
 def create_token():
     response = post_request(
         url=APIConstants().url_create_token(),
          headers=Utils().common_headers_json(),
         auth=None,
-        payload=payload_create_token(),
+        payload=create_token(),
         in_json=False
     )
     verify_http_status_code(response_data=response, expected_data=200)
