@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab1ef318-21a3-4281-8ef2-f38440584dcb" name="Changes" comment="18 th April - 2025">
-      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/end-to_end/e2e_test_full.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PyATB5xAPIAutomationFrameWork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyATB5xAPIAutomationFrameWork.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/constants/api_constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/api_constants.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helpers/common_verification.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/common_verification.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/end-to_end/e2e_test_complete.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/end-to_end/e2e_test_complete.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/conftest.py" afterDir="false" />
-    </list>
+    <list default="true" id="ab1ef318-21a3-4281-8ef2-f38440584dcb" name="Changes" comment="25th April - 2025" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -210,12 +201,21 @@
       <option name="project" value="LOCAL" />
       <updated>1744978461566</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="25th April - 2025">
+      <option name="closed" value="true" />
+      <created>1745573908940</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745573908940</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="17 th April - 2025" />
     <MESSAGE value="18 th April - 2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="18 th April - 2025" />
+    <MESSAGE value="25th April - 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="25th April - 2025" />
   </component>
 </project>
