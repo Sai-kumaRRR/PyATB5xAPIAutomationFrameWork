@@ -1,12 +1,12 @@
-### python api automation framework
+### Python API Automation Framework
 
 Hybrid Custom API framework include the proper folder structure.
 
 
 
-tech stack
+Tech Stack
 
-- python 3.13
+- Python 3.13
 - Requests - HTTP Rquests
 - PyTest - Testing Framework
 -  Reporting - Allure Report, PyTest HTML
